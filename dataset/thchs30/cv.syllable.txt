@@ -1,0 +1,32 @@
+A11_101 qi1 shi2 nian2 dai4 mo4 wo3 wai4 chu1 qiu2 xue2 mu3 qin1 ding1 ning2 wo3 chi1 fan4 yao4 xi4 jiao2 man4 yan4 xue2 xi2 yao4 shen1 zuan1 xi4 yan2 
+A11_119 chen2 yun2 tong2 zhi4 tong2 shi2 yao1 qiu2 gan4 bu5 ren4 zhen1 xue2 xi2 ye4 wu4 jing1 tong1 ye4 wu4 xiang4 yi2 qie4 ye4 wu4 nei4 hang2 ren2 xue2 xi2 
+A11_124 ling4 wai4 nv3 dan1 zhong1 guo2 dui4 hai2 you3 han2 jing1 na4 he2 yao2 yan4 ao4 yun4 pai2 ming2 di4 liu4 qi1 wei4 ye3 ke3 yu3 gao1 shou3 yi1 bo2 
+A11_132 de2 dao4 li3 gong1 pu3 e4 hao4 wen2 yi1 duo1 nu4 fen4 tian2 ying1 pai1 an4 er2 qi3 nu4 chi4 fan3 dong4 pai4 bei1 bi3 wu2 chi3 
+A11_170 ju4 yin4 du4 guan1 yuan2 tou4 lu4 shuang1 fang1 tao3 lun4 le5 yin4 du4 kong4 zhi5 de5 ke4 shi2 mi2 er3 di4 qu1 mu4 qian2 de5 jin3 zhang1 ju2 shi4 wen4 ti2 
+A11_173 yuan2 chan3 ou1 zhou1 de5 wu4 wang4 cao3 qi2 mao4 bu4 yang2 dan4 ming2 wen2 ou1 ya4 su2 cheng1 wu4 wang4 wo3 huo4 wu2 wang4 wo3 
+A11_180 liu2 xiao3 guang1 jiu3 duan4 yu3 wang2 lei3 liu4 duan4 zhi1 zhan4 zui4 wei2 ji1 lie4 ye3 shi4 zui4 wan3 jie2 shu4 de5 yi1 pan2 qi2 gong4 xia4 le5 er4 bai3 wu3 shi2 wu3 shou3 
+A11_189 gen1 ju4 cun1 gui1 min2 yue1 ou1 da3 nve4 dai5 lao3 ren2 de5 wang2 mou3 er2 xi2 bei4 chu4 er4 bai3 yuan2 fa2 kuan3 bing4 jiao1 yi1 liao2 fei4 wu2 bai3 yuan2 
+A11_191 dang1 chuan2 wang3 xia4 piao1 shi2 bai2 chun2 lu4 yang2 qi3 si4 ti2 zai4 an4 bian1 zhui1 sui2 hao3 xiang4 shi4 song4 xing2 yi4 zhi2 pao3 le5 shi2 ji3 li3 tai4 qin1 qie4 le5 
+A11_203 kai1 luan2 kuang4 wu4 ju2 hou4 lv3 jia1 tuo2 kuang4 zhang1 wen2 you3 zhang1 wen2 fu4 liang3 xiong1 di4 tong2 chao1 chan3 tong2 li4 gong1 tong2 dang1 lao2 dong4 mo2 fan4 
+A11_230 ying2 ye4 xing4 yan3 chu1 chang2 suo3 he2 ying2 ye4 xing4 dian4 ying3 fang4 ying4 chang2 suo3 zhuan3 ye4 huo4 che4 xiao1 bi4 xu1 jing1 shi4 wen2 hua4 ju2 huo4 shi4 dian4 ying3 ju2 shen3 pi1 
+A11_24 zai4 ge4 lei4 huo4 bi4 chou2 kuan3 zhong1 ou1 zhou1 huo4 bi4 dan1 wei4 chou2 kuan3 yi3 ju1 shou3 wei4 zhan4 chou2 kuan3 zong3 e2 de5 bai3 fen1 zhi1 er4 shi2 
+A11_39 fou3 ze2 guang1 you3 chan3 liang4 xiao1 bu4 chu1 qu4 ku4 cun2 yue4 lai2 yue4 duo1 wai4 qian4 huo4 kuan3 yue4 lai2 yue4 duo1 liu2 dong4 zi1 jin1 jiu4 hui4 yue4 lai2 yue4 shao3 
+A11_51 lv3 yu3 you2 de5 shi2 jian1 bi3 wang3 wang3 lv2 chang2 you2 duan3 yu3 you2 ke4 de5 yuan4 wang5 xiang1 bei4 
+A11_56 ju4 shuo1 mu3 qin1 sheng1 xia4 mei2 yi4 nian2 gong1 fu5 ran3 shang4 le5 yi1 zhong3 guai4 bing4 bu4 chi1 bu4 he1 luan4 ku1 luan4 nao4 ji2 de5 wai4 po2 man3 shan1 bian4 ye3 qu4 zhao3 cao3 yao4 lai2 qu1 gui3 
+A11_60 dou4 fu5 nao3 pin3 chang2 guo4 le5 na4 fang1 fang1 zheng4 zheng4 bai2 bai2 nen4 nen4 de5 dou4 fu5 kuai4 er5 chi1 guo4 hou4 man2 kou3 yu2 xiang1 
+A11_77 yi1 jiu3 jiu2 wu3 nian2 yi1 yue4 wen1 zhou1 shi4 wei3 fu4 mi4 shu1 zhang3 weng1 jin3 wu3 lai2 jie1 ren4 ou1 hai3 qu1 wei3 shu1 ji5 
+A11_81 ying4 gu3 tou5 liu4 lian2 li4 ren4 zhu2 guan3 zhan4 dou4 ying1 xiong2 he2 zhuan3 ye4 tui4 wu3 gan4 bu5 zhan4 shi4 dai4 biao3 ying4 yao1 zuo4 zai4 jia1 bin1 xi2 shang4 
+A12_10 pao4 yan3 da2 hao3 le5 zha4 yao4 zen3 me5 zhuang1 yue4 zheng4 cai2 yao3 le5 yao3 ya2 shu1 de5 tuo1 qu4 yi1 fu5 guang1 bang3 zi5 chong1 jin4 le5 shui3 cuan4 dong4 
+A12_115 ma3 xiao3 nian2 zuo4 hua4 de5 te4 zheng1 yu3 shen2 yun4 qi2 hua4 feng1 qu1 bie2 yu2 wen2 ren2 hua4 he2 nian2 hua4 ke3 wei4 ya3 su2 gong4 shang3 
+A12_137 bu2 qi4 ya3 bu4 bi4 su2 hua4 su2 wei2 ya3 hua4 ya3 wei2 su2 su2 bu4 shang1 ya3 ya3 su2 gong4 shang3 
+A12_138 jing1 guo5 shang4 shang4 xia4 xia4 de5 gong4 tong2 nu3 li4 e4 zhi4 le5 wai4 zi1 e2 xia4 jiang4 de5 qu1 shi4 chu1 xian4 wai4 zi1 e2 da4 fu2 du4 hui2 sheng1 de5 ju2 mian4 
+A12_18 wang1 jing1 wei4 yi4 xing2 ren2 dao4 le5 xiang1 gang3 wang1 fu1 fu4 lia3 yu3 chen2 gong1 bo2 deng3 dou1 shi4 guang3 dong1 ren2 you3 ge4 fu4 guan1 yu3 kuang4 yu4 min2 shi4 xiao3 tong2 xiang1 
+A12_28 tao2 ma1 zuo4 cai4 de5 shi2 hou5 fa1 xian4 jiang4 you2 kuai4 wan2 le5 na4 tian1 wu3 fan4 hou4 bian4 jiao4 xiao3 ai4 yun2 da3 jiang4 you2 sheng1 you2 ye3 yao4 mai3 le5 
+A12_38 si4 bai3 er4 shi2 san1 mi3 kua4 jing4 de5 zhu3 qiao2 he2 long2 wu4 cha1 bu4 zu2 liang3 hao2 mi3 bi3 xiao3 mi3 li4 hai2 xiao3 
+A12_98 quan2 dang3 bi4 xu1 jin2 jin3 tuan2 jie2 zai4 yi3 jiang1 ze2 min2 tong2 zhi4 wei2 he2 xin1 de5 dang3 zhong1 yang1 zhou1 wei2 yi4 xin1 yi2 yi4 wen3 zha1 wen2 da3 gong4 chuang4 wei4 lai2 
+A13_126 dui4 yu2 ta1 zai4 ren2 zang1 ju4 huo4 de5 qing2 kuang4 xia4 reng2 qiang3 ci2 duo2 li3 po1 gan3 you3 qu4 ta1 si4 hu1 bu4 zhi1 dao4 jue2 wang4 wei2 he2 wu4 
+A13_160 yong4 chuan2 tong3 de5 chang2 gui1 yu4 yang1 fang1 shi4 mei3 yu4 yi1 mu3 yang1 miao2 zhi3 ke3 zai1 cha1 ba1 mu3 da4 tian2 di3 mo2 yu4 yang1 ze2 ke3 yi2 zai1 wu3 shi2 mu3 
+A13_178 bei4 lei2 ge1 wa3 zuo2 tian1 zai4 wai4 sheng3 cheng2 shi4 pu3 wa3 di4 ai1 de5 jing4 xuan3 ji2 hui4 shang5 cheng1 ou1 zhou1 ying1 yi3 jian1 ding4 de5 li4 chang3 cong2 ling2 kai1 shi3 tong2 mei3 guo2 chong2 kai1 nong2 ye4 tan2 pan4 
+A13_198 ta1 men5 cong2 an4 bian1 pa2 qi3 lai5 hun2 shen1 shui3 lin2 lin2 de5 wang3 xia4 you2 pao3 you4 pu1 dao4 xia4 you2 gang1 qi3 de5 bo1 lang4 shang4 
+A13_199 gai1 yuan4 te4 pin4 qian2 wei3 chang2 tang2 ke4 wei2 gu4 wen4 nie4 wei4 ping2 wei2 ming2 yu4 yuan4 zhang3 
+A13_200 xiang1 kuai4 ran2 wan2 le5 tang2 lao3 liu4 hai2 mei2 you3 lai2 jie1 ban1 wo3 xin1 li3 zhi3 ma4 ta1 hun4 zhang4 yao4 shi4 duo1 you3 ge4 ren2 ye2 hao3 zhu4 wo3 yi1 ba3
